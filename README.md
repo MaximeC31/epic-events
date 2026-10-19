@@ -1,6 +1,6 @@
 # Epic Events
 
-CRM interne local développé en Python avec une architecture MVC.
+CRM Python en ligne de commande pour gérer clients, contrats et événements, avec PostgreSQL et permissions selon les rôles.
 
 Le projet centralise la gestion des collaborateurs, clients, contrats et événements selon les permissions des équipes gestion, commerciale et support.
 
